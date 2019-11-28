@@ -1,2 +1,5 @@
 # JavaFinalCode
-final projector computer science
+
+Author: G00273900/TimothyBlajsa
+
+About: final project for computer science
